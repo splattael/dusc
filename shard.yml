@@ -1,0 +1,13 @@
+name: dusc
+version: 0.1.0
+
+authors:
+  - Thomas Stratmann <thomas.stratmann@9elements.com>
+
+targets:
+  dusc:
+    main: src/dusc.cr
+
+crystal: 0.20.3
+
+license: MIT
