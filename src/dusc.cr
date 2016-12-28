@@ -20,5 +20,3 @@ module Dusc
     server.listen
   end
 end
-
-Dusc.run
